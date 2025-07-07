@@ -8,6 +8,5 @@ Joblib== 1.4.2.1
 imblearn== 0.0
 scikit-learn==1.6.1
 streamlit==1.46.1
-streamlit-option-menu==0.3.6
-
+streamlit-option-menu==0.4.0
 

@@ -1,0 +1,13 @@
+jupyterlab==4.3.4
+numpy==2.2.3
+pandas==2.2.3
+matplotlib== 3.10.1
+seaborn==0.13.2
+StandardScaler==0.5
+Joblib== 1.4.2.1
+imblearn== 0.0
+scikit-learn==1.6.1
+streamlit==1.46.1
+streamlit-option-menu==0.3.6
+
+
